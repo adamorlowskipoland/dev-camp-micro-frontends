@@ -1,0 +1,1 @@
+dev-camp-micro-frontends
